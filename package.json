@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A repo demonstrating how `react/prop-types` misbehaves with TypeScript",
   "main": "index.js",
+  "scripts": {
+    "lint": "eslint MyFailingComponent.tsx MyPassingComponents.tsx"
+  },
   "dependencies": {
     "react": "^17.0.1"
   },
