@@ -1,0 +1,15 @@
+{
+  "name": "react-prop-types-typescript-issue",
+  "version": "1.0.0",
+  "description": "A repo demonstrating how `react/prop-types` misbehaves with TypeScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITenthusiasm/react-prop-types-typescript-issue.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ITenthusiasm/react-prop-types-typescript-issue/issues"
+  },
+  "homepage": "https://github.com/ITenthusiasm/react-prop-types-typescript-issue#readme"
+}
